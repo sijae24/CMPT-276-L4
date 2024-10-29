@@ -9,17 +9,22 @@ const Projects = () => {
         id: 1,
         src: rps,
         title: "Rock Paper Scissors",
+        demo: "https://github.com/sijae24/rock-paper-scissors",
+        code: "https://github.com/sijae24/rock-paper-scissors",
       },
       {
         id: 2,
         src: cannon,
         title: "Cannon Game",
-
+        demo: "https://github.com/sijae24/Cannon-Game",
+        code:  "https://github.com/sijae24/Cannon-Game",
       },
       {
         id: 3,
         src: weatherapp,
         title: "Weather App",
+        demo: "https://cjweatherapp.netlify.app/",
+        code: "https://cjweatherapp.netlify.app/",
       },
     ];
   
@@ -36,14 +41,30 @@ const Projects = () => {
           </div>
   
           <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-            {projects.map(({ id, src, title }) => (
+            {projects.map(({ id, src, title, demo, code }) => (
                 <div key={id} className= "border-solid border-2 rounded-lg p-3">
-                <p className="text-lg font-semibold text-center">{title}</p>
+                <p className="text-lg font-semibold text-center mb-4">{title}</p>
                 <img
                   src={src}
                   alt={title}
-                  className="rounded-md hover:scale-110 duration-200"
+                  className="rounded-md mb-4" 
                 />
+                 <div className="flex justify-center gap-4">
+                <a
+                  href={demo}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-2 text-center text-white bg-white bg-opacity-0 border-2 border-white rounded-lg hover:bg-[#de143b] hover:border-[#de143b] duration-200"
+                >Demo
+                </a>
+                <a
+                  href={code}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-2 text-center text-white bg-white bg-opacity-0 border-2 border-white rounded-lg hover:bg-[#de143b] hover:border-[#de143b] transition-all duration-200"
+                >Code
+                </a>
+              </div>
               </div>
             ))}
           </div>
