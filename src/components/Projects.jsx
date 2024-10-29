@@ -30,7 +30,7 @@ const Projects = () => {
   
     return (
       <div
-        name="Projects"
+        name="projects"
         className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
       >
         <div className="max-w-screen-lg p-4 mx-auto flex items-center flex-col justify-center w-full h-full">
