@@ -47,7 +47,7 @@ const Projects = () => {
                 <img
                   src={src}
                   alt={title}
-                  className="rounded-md mb-4" 
+                  className="rounded-md mb-4 max-h-40" 
                 />
                  <div className="flex justify-center gap-4">
                 <a
