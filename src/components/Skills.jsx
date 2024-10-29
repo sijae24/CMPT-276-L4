@@ -5,6 +5,7 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import python from "../assets/python.png";
 import github from "../assets/github.png";
+import cpp from "../assets/cpp.png";
 
 const Skills = () => {
   const langs = [
@@ -32,6 +33,11 @@ const Skills = () => {
       id: 5,
       src: github,
       title: "GitHub",
+    },
+    {
+      id: 6,
+      src: cpp,
+      title: "C++",
     },
   ];
 
