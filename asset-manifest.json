@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6d322cc.css",
-    "main.js": "/static/js/main.4eb01c27.js",
-    "static/media/cannon.png": "/static/media/cannon.3bca7788f9dd48bef540.png",
-    "static/media/rps.png": "/static/media/rps.9420d087adf7bcc245a6.png",
-    "static/media/cpp.png": "/static/media/cpp.e3a8d8d012a8c6bf9fb9.png",
-    "static/media/profile-photo.jpg": "/static/media/profile-photo.b1c0ecf6d6e4d55ba1be.jpg",
-    "static/media/python.png": "/static/media/python.294128aa072639d2021b.png",
-    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/logo.png": "/static/media/logo.d8ccff2e665a169eca17.png",
-    "static/media/weatherapp.png": "/static/media/weatherapp.785e48a756a53bcbe784.png",
-    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/index.html",
-    "main.d6d322cc.css.map": "/static/css/main.d6d322cc.css.map",
-    "main.4eb01c27.js.map": "/static/js/main.4eb01c27.js.map"
+    "main.css": "/CMPT-276-L4/static/css/main.d6d322cc.css",
+    "main.js": "/CMPT-276-L4/static/js/main.c77c6ec1.js",
+    "static/media/cannon.png": "/CMPT-276-L4/static/media/cannon.3bca7788f9dd48bef540.png",
+    "static/media/rps.png": "/CMPT-276-L4/static/media/rps.9420d087adf7bcc245a6.png",
+    "static/media/cpp.png": "/CMPT-276-L4/static/media/cpp.e3a8d8d012a8c6bf9fb9.png",
+    "static/media/profile-photo.jpg": "/CMPT-276-L4/static/media/profile-photo.b1c0ecf6d6e4d55ba1be.jpg",
+    "static/media/python.png": "/CMPT-276-L4/static/media/python.294128aa072639d2021b.png",
+    "static/media/github.png": "/CMPT-276-L4/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/CMPT-276-L4/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/CMPT-276-L4/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo.png": "/CMPT-276-L4/static/media/logo.d8ccff2e665a169eca17.png",
+    "static/media/weatherapp.png": "/CMPT-276-L4/static/media/weatherapp.785e48a756a53bcbe784.png",
+    "static/media/javascript.png": "/CMPT-276-L4/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/CMPT-276-L4/index.html",
+    "main.d6d322cc.css.map": "/CMPT-276-L4/static/css/main.d6d322cc.css.map",
+    "main.c77c6ec1.js.map": "/CMPT-276-L4/static/js/main.c77c6ec1.js.map"
   },
   "entrypoints": [
     "static/css/main.d6d322cc.css",
-    "static/js/main.4eb01c27.js"
+    "static/js/main.c77c6ec1.js"
   ]
 }
